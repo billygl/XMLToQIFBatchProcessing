@@ -25,4 +25,7 @@
 XMLtoQIF.bat
 ````
 
+# ERRORS
+- It creates a db/error.csv to add missing products or categories not found in csv files
+
 
