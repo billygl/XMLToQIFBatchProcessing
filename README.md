@@ -1,6 +1,8 @@
 # PURPOSE
 - It transforms many xml files to a file of QIF format.
-- QIF could be imported in Quicken Intuit Program
+- QIF could be imported in Quicken Intuit Program.
+- It matches the EAN codes to the products database.
+- The products match the cateegories database.
 
 # PREPARE
 - It uses 'boletas' folder as input data
